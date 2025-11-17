@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+
+#project specific excludes
+
+DX11_RendererDemo/x64
+x64/
+
+*.sln
+*.vcxproj
+*.filters
